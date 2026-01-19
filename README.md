@@ -1,16 +1,16 @@
-🔍 Project Overview
+#🔍 Project Overview
 
 This project performs an end-to-end exploratory data analysis (EDA) on Netflix’s content catalog using Python. The dataset contains ~10,000 rows, representing movies and TV shows available on Netflix across different countries, genres, ratings, and release years.
 
 The objective of this project is to clean real-world data, analyze trends, visualize patterns, and extract meaningful insights that reflect Netflix’s content strategy.
 
-📁 Dataset
+#📁 Dataset
 
 Source: Netflix Titles Dataset
 
 Size: ~10,000 rows
 
-Description:
+#Description:
 The dataset includes information such as:
 
 Title
@@ -31,7 +31,7 @@ Genres
 
 This dataset reflects real-world inconsistencies such as missing values and multi-valued fields, making it suitable for practical data analysis.
 
-🛠 Tools & Libraries Used
+#🛠 Tools & Libraries Used
 
 Python
 
@@ -41,7 +41,7 @@ Matplotlib – basic visualizations
 
 Seaborn – statistical and comparative visualizations
 
-🧹 Data Cleaning & Preprocessing
+#🧹 Data Cleaning & Preprocessing
 
 Handled missing and null values
 
@@ -51,7 +51,7 @@ Split and normalized multi-valued columns (e.g., genres, countries)
 
 Standardized categorical values for consistency
 
-📊 Key Questions Explored
+#📊 Key Questions Explored
 
 How is Netflix content distributed between Movies and TV Shows?
 
@@ -63,7 +63,7 @@ How has Netflix content production evolved over time?
 
 What ratings dominate Netflix’s catalog?
 
-💡 Key Insights
+#💡 Key Insights
 
 Netflix’s catalog is dominated by movies, with TV shows forming a smaller portion.
 
@@ -75,7 +75,7 @@ Netflix content releases increased sharply after 2015, indicating platform expan
 
 Mature audience ratings such as TV-MA and TV-14 dominate the catalog.
 
-📈 Visualizations
+#📈 Visualizations
 
 The project includes multiple visualizations such as:
 
