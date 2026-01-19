@@ -1,3 +1,5 @@
+📊 Netflix Data Analysis (Python)
+
 #🔍 Project Overview
 
 This project performs an end-to-end exploratory data analysis (EDA) on Netflix’s content catalog using Python. The dataset contains ~10,000 rows, representing movies and TV shows available on Netflix across different countries, genres, ratings, and release years.
